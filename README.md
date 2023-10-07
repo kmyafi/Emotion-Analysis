@@ -3,7 +3,7 @@ Multiclass classification task to perform emotion analysis of tweet using NLP
 
 ## Set
 - **Dataset:** Cuitan Tweet emosi dari opini publik masyarakat Indonesia;
-- **Slang:** *Kamus Alay* (Colloquial Indonesian Lexicon);
+- **Slang:** Kamus Alay (*Colloquial Indonesian Lexicon*);
 - **Ekstraksi Fitur:** `Bag-of-Words`, `TF-IDF`;
 - **Classifier:** `Naive Bayes`, `SVM`, `Logistic Regression`, `Decision Tree`.
 
