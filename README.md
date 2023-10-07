@@ -7,7 +7,7 @@ Multiclass classification task to perform emotion analysis of tweet using NLP
 - **Ekstraksi Fitur:** `bag of words`, `TF-IDF`;
 - **Classifier:** `Naive Bayes`, `SVM`, `Logistic Regression`, `Decision Tree`.
 
-- ## Algoritma yang termasuk
+## Algoritma yang termasuk
 - [x] Pembersihan kata/prapengolahan teks
 - [x] Penggantian kata tidak baku
 - [x] Ekstraksi fitur: *BoW*, *TF-IDF*
