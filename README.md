@@ -34,13 +34,15 @@ This dataset was formed from Indonesian tweet containing five emotion values, na
 
 ## Requirements
 - `pandas`
-- `regex`
+- `numpy`
 - `matplotlib`
+- `seaborn`
+- `re`
+- `string`
+- `emoji`
+- `unicodedata`
 - `unidecode`
 - `html`
-- `unicodedata`
-- `emoji`
-- `string`
 - `sklearn`
 - `tqdm`
 - `random`
