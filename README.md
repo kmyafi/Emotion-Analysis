@@ -1,4 +1,4 @@
-# Analisis & Klasifikasi Emosi Data Tweet Berbahasa Indonesia dengan Metode Ekstraksi Fitur
+# Analysis & Classification of Emotions in Indonesian Tweet Data using the Feature Extraction Method
 Multiclass classification task to perform emotion analysis of tweet using NLP
 
 > **Objectives :**
