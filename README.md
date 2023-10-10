@@ -13,7 +13,7 @@ Multiclass classification task to perform emotion analysis of tweet using NLP
 > 4. Rifa Nayaka Utami
 
 ## Set
-- **Dataset:** Emotion dataset from Indonesian tweet obtained from [Data Analysis Competition (DAC) Informatics Festival (IFest) Unpad](https://www.ifestunpad.id/data-analysis);
+- **Dataset:** Emotion dataset from Indonesian tweet obtained from [Data Analysis Competition (DAC) Informatics Festival (IFest) 2023](https://www.ifestunpad.id/data-analysis);
 - **Slang:** Modified Kamus Alay based on [Kamus Alay (Colloquial Indonesian Lexicon)](https://github.com/nasalsabila/kamus-alay);
 - **Feature Extraction:** `Bag-of-Words`, `TF-IDF`;
 - **Classifier:** `Naive Bayes`, `SVM`, `Logistic Regression`, `Decision Tree`.
