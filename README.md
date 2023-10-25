@@ -258,7 +258,7 @@ Classification report
 weighted avg       0.49      0.49      0.49       808
 ```
 
-### Comparison
+### Comparisons
 |   Model   | F1 Score | Accuracy |
 | :-------- | :------: | :------: |
 | NB-BoW    |  64.36   |   64.36  |
